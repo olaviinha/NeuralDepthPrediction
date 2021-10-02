@@ -2,7 +2,7 @@
 
 Colab notebooks for monocular depth map prediction using neural networks. So far only one is available.
 
-## timm
+## MiDaS
 
 Using [MiDaS](https://github.com/isl-org/MiDaS) & [PyTorch Image Models](https://pypi.org/project/timm/)
 
